@@ -1,0 +1,4 @@
+
+gsquid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(µì«‰üÿÿÿÿ8¼„á¶Ø-
+]squid:UnusedPrivateMethod",Remove this unused private "makeNew" method.(âå¢Ùÿÿÿÿÿ8¼„á¶Ø-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8¶çã¶Ø-
